@@ -1,0 +1,118 @@
+{
+    "planets": [
+        {
+            "id": "0",
+            "name": "Earth",
+            "orbiting-star": "Sun",
+            "satelites": ["Moon"],
+            "surface-area": "510065623",
+            "mass": "5.97237*10^24",
+            "volume": "1.0821*10^12",
+            "density": "5.514",
+            "escape-velocity": "11.186",
+            "galaxy": "Milky Way"
+
+        },
+        {
+            "id": "1",
+            "name": "Jupitor",
+            "orbiting-star": "Sun",
+            "satelites": [
+                "Metis",
+                "Adrastea",
+                "Amalthea",
+                "Thebe",
+                "Io♠",
+                "Europa♠",
+                "Ganymede♠",
+                "Callisto♠",
+                "Themisto†"
+            ],
+            "surface-area": "6.1469*10^10",
+            "mass": "1.8982*10^27",
+            "volume": "1.4313*10^15",
+            "density": "1326",
+            "escape-velocity": "59.5",
+            "galaxy": "Milky Way"
+
+        },
+        {
+            "id": "2",
+            "name": "Earth",
+            "orbiting-star": "Sun",
+            "satelites": ["Moon"],
+            "surface-area": "510065623",
+            "mass": "5.97237*10^24",
+            "volume": "1.0821*10^12",
+            "density": "5.514",
+            "escape-velocity": "11.186",
+            "galaxy": "Milky Way"
+
+        },
+        {
+            "id": "3",
+            "name": "Earth",
+            "orbiting-star": "Sun",
+            "satelites": ["Moon"],
+            "surface-area": "510065623",
+            "mass": "5.97237*10^24",
+            "volume": "1.0821*10^12",
+            "density": "5.514",
+            "escape-velocity": "11.186",
+            "galaxy": "Milky Way"
+
+        },
+        {
+            "id": "4",
+            "name": "Earth",
+            "orbiting-star": "Sun",
+            "satelites": ["Moon"],
+            "surface-area": "510065623",
+            "mass": "5.97237*10^24",
+            "volume": "1.0821*10^12",
+            "density": "5.514",
+            "escape-velocity": "11.186",
+            "galaxy": "Milky Way"
+
+        },
+        {
+            "id": "5",
+            "name": "Earth",
+            "orbiting-star": "Sun",
+            "satelites": ["Moon"],
+            "surface-area": "510065623",
+            "mass": "5.97237*10^24",
+            "volume": "1.0821*10^12",
+            "density": "5.514",
+            "escape-velocity": "11.186",
+            "galaxy": "Milky Way"
+
+        },
+        {
+            "id": "6",
+            "name": "Earth",
+            "orbiting-star": "Sun",
+            "satelites": ["Moon"],
+            "surface-area": "510065623",
+            "mass": "5.97237*10^24",
+            "volume": "1.0821*10^12",
+            "density": "5.514",
+            "escape-velocity": "11.186",
+            "galaxy": "Milky Way"
+
+        },
+        {
+            "id": "7",
+            "name": "Earth",
+            "orbiting-star": "Sun",
+            "satelites": ["Moon"],
+            "surface-area": "510065623",
+            "mass": "5.97237*10^24",
+            "volume": "1.0821*10^12",
+            "density": "5.514",
+            "escape-velocity": "11.186",
+            "galaxy": "Milky Way"
+
+        } 
+    ]
+}
