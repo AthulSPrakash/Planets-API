@@ -11,22 +11,21 @@
             "density": "5.514",
             "escape-velocity": "11.186",
             "galaxy": "Milky Way"
-
         },
         {
             "id": "1",
             "name": "Jupitor",
             "orbiting-star": "Sun",
             "satelites": [
-                "Metis",
-                "Adrastea",
-                "Amalthea",
-                "Thebe",
-                "Io♠",
-                "Europa♠",
-                "Ganymede♠",
-                "Callisto♠",
-                "Themisto†"
+                "Metis","Adrastea","Amalthea","Thebe","Io♠","Europa♠","Ganymede♠","Callisto♠","Themisto†","Leda♣","Ersa♣",
+                "Pandia♣","Himalia♣","Lysithea♣","Elara♣","Dia♣","Carpo†","Valetudo†","Euporie♦","Eupheme♦","S/2003 J 18♦",
+                "S/2010 J 2♦","Helike♦","S/2003 J 16♦","S/2003 J 2♦","Euanthe♦","S/2017 J 7♦","Hermippe♦","Praxidike♦",
+                "Thyone♦","Thelxinoe♦","S/2017 J 3♦","Ananke♦","Mneme♦","S/2016 J 1♦","Orthosie♦","Harpalyke♦","Iocaste♦",
+                "S/2017 J 9♦","S/2003 J 12♦","S/2003 J 4‡","Erinome♥","Aitne♥","Herse♥","Taygete♥","S/2017 J 2♥","S/2017 J 6‡",
+                "Eukelade♥","Carme♥","S/2003 J 19♥","Isonoe♥","S/2003 J 10♥","Autonoe‡","Philophrosyne‡","Cyllene‡","Pasithee♥",
+                "S/2010 J 1♥","Pasiphae‡","Sponde‡","S/2017 J 8♥","Eurydome‡","S/2017 J 5♥","Kalyke♥","Hegemone‡","Kale♥",
+                "Kallichore♥","S/2011 J 1♥","S/2017 J 1‡","Chaldene♥","Arche♥","Eirene♥","Kore‡","S/2011 J 2‡","S/2003 J 9♥",
+                "Megaclite‡","Aoede‡","S/2003 J 23‡","Callirrhoe‡","Sinope‡"  
             ],
             "surface-area": "6.1469*10^10",
             "mass": "1.8982*10^27",
@@ -34,85 +33,84 @@
             "density": "1326",
             "escape-velocity": "59.5",
             "galaxy": "Milky Way"
-
         },
         {
             "id": "2",
-            "name": "Earth",
+            "name": "Neptune",
             "orbiting-star": "Sun",
-            "satelites": ["Moon"],
-            "surface-area": "510065623",
-            "mass": "5.97237*10^24",
-            "volume": "1.0821*10^12",
-            "density": "5.514",
-            "escape-velocity": "11.186",
+            "satelites": [
+                "Naiad","Thalassa","Despina","Galatea","Larissa","Hippocamp","Proteus","Triton♠","Nereid‡","Halimede♠","Sao‡",
+                "Laomedeia‡","Psamathe♠","Neso♠"
+            ],
+            "surface-area": "7.6187*10^9",
+            "mass": "1.02413*10^26",
+            "volume": "6.253*10^13",
+            "density": "1.638",
+            "escape-velocity": "23.5",
             "galaxy": "Milky Way"
-
         },
         {
             "id": "3",
-            "name": "Earth",
+            "name": "Mars",
             "orbiting-star": "Sun",
-            "satelites": ["Moon"],
-            "surface-area": "510065623",
-            "mass": "5.97237*10^24",
-            "volume": "1.0821*10^12",
-            "density": "5.514",
-            "escape-velocity": "11.186",
+            "satelites": ["Phobos","Deimos"],
+            "surface-area": "144.37*10^6",
+            "mass": "6.4171*10^23",
+            "volume": "1.63118*10^11",
+            "density": "3.9335",
+            "escape-velocity": "5.027",
             "galaxy": "Milky Way"
-
         },
         {
             "id": "4",
-            "name": "Earth",
+            "name": "Saturn",
             "orbiting-star": "Sun",
-            "satelites": ["Moon"],
-            "surface-area": "510065623",
-            "mass": "5.97237*10^24",
-            "volume": "1.0821*10^12",
-            "density": "5.514",
-            "escape-velocity": "11.186",
+            "satelites": ["Mimas","Enceladus","Tethys","Dione","Rhea","Titan","Iapetus"],
+            "surface-area": "4.27*10^10",
+            "mass": "5.6834*10^26",
+            "volume": "8.2713*10^14",
+            "density": "0.687",
+            "escape-velocity": "35.5",
             "galaxy": "Milky Way"
-
         },
         {
             "id": "5",
-            "name": "Earth",
+            "name": "Uranus",
             "orbiting-star": "Sun",
-            "satelites": ["Moon"],
-            "surface-area": "510065623",
-            "mass": "5.97237*10^24",
-            "volume": "1.0821*10^12",
-            "density": "5.514",
-            "escape-velocity": "11.186",
+            "satelites": ["¡Cordelia","¡Ophelia","¡Bianca","¡Cressida","¡Desdemona","¡Juliet","¡Portia","¡Rosalind","¡Cupid",
+                "¡Belinda","¡Perdita","¡Puck","¡Mab","†Miranda","†Ariel","†Umbriel","†Titania","†Oberon","‡Francisco","‡Caliban",
+                "‡Stephano","‡Trinculo","‡Sycorax","±Margaret","‡Prospero","‡Setebos","‡Ferdinand"
+            ],
+            "surface-area": "8.1156*10^9",
+            "mass": "(8.6810±0.0013)*10^25",
+            "volume": "6.833*10^13",
+            "density": "1.27",
+            "escape-velocity": "21.3",
             "galaxy": "Milky Way"
-
         },
         {
             "id": "6",
-            "name": "Earth",
+            "name": "Venus",
             "orbiting-star": "Sun",
-            "satelites": ["Moon"],
-            "surface-area": "510065623",
-            "mass": "5.97237*10^24",
-            "volume": "1.0821*10^12",
-            "density": "5.514",
-            "escape-velocity": "11.186",
+            "satelites": [""],
+            "surface-area": "4.6023*10^8",
+            "mass": "4.8675*10^24",
+            "volume": "9.2843*10^11",
+            "density": "5.243",
+            "escape-velocity": "10.36",
             "galaxy": "Milky Way"
-
         },
         {
             "id": "7",
-            "name": "Earth",
+            "name": "Mercury",
             "orbiting-star": "Sun",
-            "satelites": ["Moon"],
-            "surface-area": "510065623",
-            "mass": "5.97237*10^24",
-            "volume": "1.0821*10^12",
-            "density": "5.514",
-            "escape-velocity": "11.186",
+            "satelites": [""],
+            "surface-area": "7.48*10^7",
+            "mass": "3.3011*10^23",
+            "volume": "6.083*10^10",
+            "density": "5.427",
+            "escape-velocity": "4.25",
             "galaxy": "Milky Way"
-
         } 
     ]
 }
