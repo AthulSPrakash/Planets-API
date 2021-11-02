@@ -6,4 +6,19 @@ volume - km3
 density -  g/cm3
 escape-velocity - km/s
 
-https://my-planets-api.herokuapp.com/planets
+[
+  {
+    "id": "0",
+    "name": "Earth",
+    "orbiting-star": "Sun",
+    "satelites": [
+      "Moon"
+    ],
+    "surface-area": "510065623",
+    "mass": "5.97237×10²⁴",
+    "volume": "1.0821×10¹²",
+    "density": "5.514",
+    "escape-velocity": "11.186",
+    "galaxy": "Milky Way"
+  }
+]
