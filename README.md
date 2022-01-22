@@ -1,6 +1,6 @@
 # API to get basic details about planets
 - Created using Node.js & JsonServer
-### Mock API response
+## Mock API response
 ```json
 [
   {
@@ -19,7 +19,7 @@
   }
 ]
 ```
-### Units using
+## Units using
 - Surface-area - km2
 - Mass - kg
 - Volume - km3
