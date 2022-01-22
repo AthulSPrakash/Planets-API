@@ -1,5 +1,7 @@
-# planet-api
-
+# API to get basic details about planets
+- Created using Node.js & JsonServer
+### Mock API response
+```json
 surface-area - km2
 mass - kg
 volume - km3
@@ -22,3 +24,4 @@ escape-velocity - km/s
     "galaxy": "Milky Way"
   }
 ]
+```
