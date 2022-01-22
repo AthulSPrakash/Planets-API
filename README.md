@@ -2,12 +2,6 @@
 - Created using Node.js & JsonServer
 ### Mock API response
 ```json
-surface-area - km2
-mass - kg
-volume - km3
-density -  g/cm3
-escape-velocity - km/s
-
 [
   {
     "id": "0",
@@ -25,3 +19,9 @@ escape-velocity - km/s
   }
 ]
 ```
+### Units using
+- Surface-area - km2
+- Mass - kg
+- Volume - km3
+- Density -  g/cm3
+- Escape-velocity - km/s
